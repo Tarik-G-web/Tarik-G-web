@@ -1,6 +1,9 @@
 import type { Metadata } from "next";
 import {Nunito} from "next/font/google";
+// styling
+import "slick-carousel/slick/slick.css";
 import "./globals.css";
+// components
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
