@@ -8,7 +8,7 @@ const Hero = () => {
         <div className="absolute h-full w-full bg-[rgba(0,0,0,0.4)] z-10"></div>
         <video
           src={"./video.mp4"}
-          muted
+          
           loop
           autoPlay
         
